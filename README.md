@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Kapuriya
+👋 Hi, I’m Rahul Kapuriya
 
 <!---
 littlerkap/littlerkap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
